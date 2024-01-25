@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "brK5WC+UGkOzR5x0NaMTXDXD143P45AFCbjPh48IqANEALwgQBWMQHwtDmxkhsWmiaRxfmEyqYqSxWAlgU2Anw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mstef\\OneDrive\\Documente\\GitHub\\Examen-DAW\\Examen backend\\Examen backend\\Examen backend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mstef\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\mstef\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\mstef\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\mstef\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\mstef\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\mstef\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
