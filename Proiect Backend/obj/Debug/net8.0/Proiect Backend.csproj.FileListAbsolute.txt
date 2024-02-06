@@ -1,0 +1,35 @@
+C:\Users\mstef\OneDrive\Documente\GitHub\Examen-DAW\Proiect Backend\obj\Debug\net8.0\Proiect Backend.csproj.AssemblyReference.cache
+C:\Users\mstef\OneDrive\Documente\GitHub\Examen-DAW\Proiect Backend\obj\Debug\net8.0\Proiect Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mstef\OneDrive\Documente\GitHub\Examen-DAW\Proiect Backend\obj\Debug\net8.0\Proiect Backend.AssemblyInfoInputs.cache
+C:\Users\mstef\OneDrive\Documente\GitHub\Examen-DAW\Proiect Backend\obj\Debug\net8.0\Proiect Backend.AssemblyInfo.cs
+C:\Users\mstef\OneDrive\Documente\GitHub\Examen-DAW\Proiect Backend\obj\Debug\net8.0\Proiect Backend.csproj.CoreCompileInputs.cache
+C:\Users\mstef\OneDrive\Documente\GitHub\Examen-DAW\Proiect Backend\obj\Debug\net8.0\Proiect Backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mstef\OneDrive\Documente\GitHub\Examen-DAW\Proiect Backend\obj\Debug\net8.0\Proiect Backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mstef\OneDrive\Documente\GitHub\Examen-DAW\Proiect Backend\obj\Debug\net8.0\Proiect Backend.sourcelink.json
+C:\Users\mstef\OneDrive\Documente\GitHub\Examen-DAW\Proiect Backend\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\mstef\OneDrive\Documente\GitHub\Examen-DAW\Proiect Backend\bin\Debug\net8.0\appsettings.json
+C:\Users\mstef\OneDrive\Documente\GitHub\Examen-DAW\Proiect Backend\bin\Debug\net8.0\Proiect Backend.exe
+C:\Users\mstef\OneDrive\Documente\GitHub\Examen-DAW\Proiect Backend\bin\Debug\net8.0\Proiect Backend.deps.json
+C:\Users\mstef\OneDrive\Documente\GitHub\Examen-DAW\Proiect Backend\bin\Debug\net8.0\Proiect Backend.runtimeconfig.json
+C:\Users\mstef\OneDrive\Documente\GitHub\Examen-DAW\Proiect Backend\bin\Debug\net8.0\Proiect Backend.dll
+C:\Users\mstef\OneDrive\Documente\GitHub\Examen-DAW\Proiect Backend\bin\Debug\net8.0\Proiect Backend.pdb
+C:\Users\mstef\OneDrive\Documente\GitHub\Examen-DAW\Proiect Backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mstef\OneDrive\Documente\GitHub\Examen-DAW\Proiect Backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mstef\OneDrive\Documente\GitHub\Examen-DAW\Proiect Backend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\mstef\OneDrive\Documente\GitHub\Examen-DAW\Proiect Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mstef\OneDrive\Documente\GitHub\Examen-DAW\Proiect Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mstef\OneDrive\Documente\GitHub\Examen-DAW\Proiect Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mstef\OneDrive\Documente\GitHub\Examen-DAW\Proiect Backend\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\mstef\OneDrive\Documente\GitHub\Examen-DAW\Proiect Backend\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\mstef\OneDrive\Documente\GitHub\Examen-DAW\Proiect Backend\obj\Debug\net8.0\staticwebassets\msbuild.Proiect Backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mstef\OneDrive\Documente\GitHub\Examen-DAW\Proiect Backend\obj\Debug\net8.0\staticwebassets\msbuild.build.Proiect Backend.props
+C:\Users\mstef\OneDrive\Documente\GitHub\Examen-DAW\Proiect Backend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Proiect Backend.props
+C:\Users\mstef\OneDrive\Documente\GitHub\Examen-DAW\Proiect Backend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Proiect Backend.props
+C:\Users\mstef\OneDrive\Documente\GitHub\Examen-DAW\Proiect Backend\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\mstef\OneDrive\Documente\GitHub\Examen-DAW\Proiect Backend\obj\Debug\net8.0\scopedcss\bundle\Proiect Backend.styles.css
+C:\Users\mstef\OneDrive\Documente\GitHub\Examen-DAW\Proiect Backend\obj\Debug\net8.0\Proiect Backend.csproj.CopyComplete
+C:\Users\mstef\OneDrive\Documente\GitHub\Examen-DAW\Proiect Backend\obj\Debug\net8.0\Proiect Backend.dll
+C:\Users\mstef\OneDrive\Documente\GitHub\Examen-DAW\Proiect Backend\obj\Debug\net8.0\refint\Proiect Backend.dll
+C:\Users\mstef\OneDrive\Documente\GitHub\Examen-DAW\Proiect Backend\obj\Debug\net8.0\Proiect Backend.pdb
+C:\Users\mstef\OneDrive\Documente\GitHub\Examen-DAW\Proiect Backend\obj\Debug\net8.0\Proiect Backend.genruntimeconfig.cache
+C:\Users\mstef\OneDrive\Documente\GitHub\Examen-DAW\Proiect Backend\obj\Debug\net8.0\ref\Proiect Backend.dll

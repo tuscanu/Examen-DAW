@@ -1,0 +1,7 @@
+<!-- src/app/components/login/login.component.html -->
+<form>
+    <input type="text" formControlName="username" placeholder="Username">
+    <input type="password" formControlName="password" placeholder="Password">
+    <button type="submit" [disabled]="!loginForm.valid">Login</button>
+  </form>
+  
