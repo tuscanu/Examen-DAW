@@ -5,7 +5,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Proiect_Backend.Data;
-
+using Proiect_Backend.Hubs;
 public class Startup
 {
     public Startup(IConfiguration configuration)
@@ -18,27 +18,24 @@ public class Startup
    
     public void ConfigureServices(IServiceCollection services)
     {
-        
-        
-
-       
-
-        
         services.AddControllersWithViews();
-
-       
         services.AddRazorPages();
+        services.AddSignalR();
 
-       
     }
 
     
     public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
     {
+        app.UseEndpoints(endpoints =>
+        {
+            endpoints.MapControllers();
+            endpoints.MapHub<ChatHub>("/chatHub");
+        });
+
         if (env.IsDevelopment())
         {
             app.UseDeveloperExceptionPage();
-       
         }
         else
         {

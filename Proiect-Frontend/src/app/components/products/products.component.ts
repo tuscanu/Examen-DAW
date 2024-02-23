@@ -1,12 +1,10 @@
-import { Component } from '@angular/core';
+// src/app/components/products/products.component.ts
+import { Component, OnInit } from '@angular/core';
+import { ProductService } from '../../services/product.service';
 
 @Component({
   selector: 'app-products',
-  standalone: true,
-  imports: [],
   templateUrl: './products.component.html',
-  styleUrl: './products.component.scss'
+  styleUrls: ['./products.component.scss']
 })
-export class ProductsComponent {
-
-}
+export class ProductsComponent{}
